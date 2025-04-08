@@ -7,4 +7,7 @@ It contains 3 files :
 - "hangeulit" is a code to be run in order to exercise on the alphabet, it will generate a web interface using Streamlit, in which a random Hangeul will apear, the user will need to return its pronuntiation, after that it will indicate if it is correct or not and then repeat with another character
 - "hangfunc" only contains functions for hangeulit to run
 
-The notebook can be run on its own and hangeulit need hangfunc to be ran, you also need to have streamlit installed on your local environement to create the web interface
+The notebook can be run on its own but hangeulit need hangfunc to be ran, you also need to have streamlit installed on your local environement to create the web interface
+
+The web page can be accesed through this link : https://korean-learnbook-guguzilla.streamlit.app
+
